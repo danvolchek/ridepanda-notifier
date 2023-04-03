@@ -8,7 +8,7 @@ Requires a gotify server running on the same device as the notifier.
 
 Also requires a `config.json` file in the following form:
 
-```json
+```json5
 {
   "ridePandaAPI": { // Browse the website and then inspect browser logs to get these
     "hubId": "",
